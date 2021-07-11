@@ -1,0 +1,45 @@
+@media screen and (max-width: 480px) {
+    .head_right, .first_screen_right {
+        display: none;
+    }
+    .wrapper {
+        padding: 0 20px;
+    }
+    .first_screen{
+        background: orangered;
+        padding-bottom:  50px;
+        height: 100vh;
+
+    }
+    /*.first_screen_left h1 {*/
+    /*    font-size: 60px;*/
+    /*    line-height: 70px;*/
+    /*}*/
+    .first_screen_button button{
+        align-content: center;
+        position: initial;
+        margin: 0px 0px auto ;
+        /*bottom: 25px;*/
+        align-content: center;
+    }
+    .first_screen_button {
+        align-content: center;
+
+        bottom: 5px;
+        /*align-content: center;*/
+    }
+    .wrapper h1 {
+        max-width: 480px;
+        font-size: 60px;
+        line-height: 70px;
+
+    }
+.button_mobile{
+    display: flex;
+    width: 60px;
+    height: 60px;
+    border: 1px solid #CCC;
+
+}
+
+}
