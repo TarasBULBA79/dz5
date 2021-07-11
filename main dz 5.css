@@ -279,3 +279,24 @@ body{
     background-color:#FFFFFF ;
     color:#000000;
 }
+
+/*eighth_screen*/
+.eighth_screen{
+    max-width: 1440px;
+    height: 631px;
+    margin-top: 108px;
+    padding-left: 145px;
+    background: #302E3F;
+}
+/*.eighth_screen img{*/
+/*    margin: 45px 0px 0px 0px;*/
+/*}*/
+.eight_head{
+    padding-top: 45px;
+    align-items: center;
+}
+.Your_new_finance_team{
+    padding-left: 18px;
+    font-size: 28px;
+    color: #FFFFFF;
+}
