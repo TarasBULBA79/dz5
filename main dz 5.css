@@ -287,6 +287,7 @@ body{
     margin-top: 108px;
     padding-left: 145px;
     background: #302E3F;
+    color: #FFFFFF;
 }
 /*.eighth_screen img{*/
 /*    margin: 45px 0px 0px 0px;*/
@@ -295,8 +296,13 @@ body{
     padding-top: 45px;
     align-items: center;
 }
-.Your_new_finance_team{
+.eight_head p{
     padding-left: 18px;
     font-size: 28px;
     color: #FFFFFF;
+}
+.eighth_screen_column{
+    margin-top: 55px;
+    column-gap: 150px;
+
 }
