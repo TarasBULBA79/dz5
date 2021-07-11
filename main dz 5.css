@@ -184,14 +184,65 @@ body{
 }
 
 /*fourth screen*/
-.fourth_screen_column{
-    background: #FDECED;
-    max-width: 300px;
+.fourth_screen{
+    max-height: 705px;
+    background-color: #f8cbce;
 }
 
-
-
+.fourth_screen_column{
+    max-width: 300px;
+    column-gap: 60px;
+    margin-left: 145px;
+    padding-bottom: 82px;
+}
 .head_4{
     font-size: 58px;
-    margin: 88px 0 88px 145px;
+    padding: 88px 1px 82px 145px;
+
+    }
+/*fifth_screen*/
+.fifth_screen{
+    margin: 129px 0 0 145px;
+}
+.fifth_screen p{
+    font-size: 27px;
+    max-width: 236px;
+}
+.fifth_screen_right_block_1, .fifth_screen_right_block_2, .fifth_screen_right_block_3{
+    margin-left: 138px;
+}
+.brands{
+    padding-bottom: 95px;
+}
+
+/*"sixth_screen">*/
+.sixth_screen{
+    margin-left: 145px;
+}
+.sixth_screen h2{
+    font-size: 58px;
+    padding-top: 191px;
+     }
+.sixth_screen_p{
+    max-width: 547px;
+    margin-top: 40px;
+    font-size: 20px;
+    line-height: 30.6px;
+    font-weight: 400;
+  }
+.View_Hub_button {
+    Font-size: 18px;
+    padding: 12px 30px;
+    border: 0px solid;
+    box-sizing: border-box;
+    Font-weight: bold;
+    border-radius: 100px;
+    cursor: pointer;
+    transition: background-color 500ms, color 500ms;
+    background-color: #F7B2B7;
+    color: #000000;
+    margin: 79px 0 126px 0;
+}
+.sixth_screen_img{
+    padding-top: 108px;
 }
