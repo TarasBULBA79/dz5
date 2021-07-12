@@ -302,7 +302,37 @@ body{
     color: #FFFFFF;
 }
 .eighth_screen_column{
-    margin-top: 55px;
-    column-gap: 150px;
+    margin-top: 5px;
+    column-gap: 50px;
+    /*font-size: 18px;*/
+    line-height: 25.2px;
+    padding: 50px 260px 80px 0px;
 
+}
+
+.eighth_screen_column h6, .speak_to_us h6{
+    font-size: 18px;
+    padding-bottom: 20px;
+    width: 200px;
+    /*display: flex;*/
+}
+.eighth_screen_column p{
+    font-size: 16px;
+    color: #CCCCCC;
+}
+.company{
+    padding-right: 269px;
+}
+.speak_to_us {
+    margin-top: -20px;
+}
+.speak_to_us p{
+    padding-bottom: 8px;
+    color: #CCCCCC;
+}
+.Accountancy_Cloud_2021{
+    column-gap: 20px;
+    font-size: 16px;
+    padding-top: 62px;
+    margin-bottom: 45px;
 }
