@@ -263,7 +263,7 @@ body{
 }
 .seventh_screen_p{
     font-size: 20px;
-    padding: 18px 0px 0px 90px;
+    padding: 18px 0 0 90px;
 }
 .Ready_to_Switch{
     font-size: 46px
@@ -335,4 +335,10 @@ body{
     font-size: 16px;
     padding-top: 62px;
     margin-bottom: 45px;
+    color: #CCCCCC;
+}
+.acca_logo{
+    padding:0px 0px 50px 526px;
+    align-items: center;
+
 }
